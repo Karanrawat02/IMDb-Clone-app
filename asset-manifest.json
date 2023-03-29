@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IMDb-Clone-app/static/css/main.7f9c18bd.css",
-    "main.js": "/IMDb-Clone-app/static/js/main.e6c111f5.js",
+    "main.js": "/IMDb-Clone-app/static/js/main.843dc6ed.js",
     "static/js/787.a28e2a3b.chunk.js": "/IMDb-Clone-app/static/js/787.a28e2a3b.chunk.js",
     "index.html": "/IMDb-Clone-app/index.html",
     "main.7f9c18bd.css.map": "/IMDb-Clone-app/static/css/main.7f9c18bd.css.map",
-    "main.e6c111f5.js.map": "/IMDb-Clone-app/static/js/main.e6c111f5.js.map",
+    "main.843dc6ed.js.map": "/IMDb-Clone-app/static/js/main.843dc6ed.js.map",
     "787.a28e2a3b.chunk.js.map": "/IMDb-Clone-app/static/js/787.a28e2a3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9c18bd.css",
-    "static/js/main.e6c111f5.js"
+    "static/js/main.843dc6ed.js"
   ]
 }
